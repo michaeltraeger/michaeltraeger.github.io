@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html</loc>
-    <lastmod>2025-06-06</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/cv/index.html</loc>
+    <lastmod>2025-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -14,13 +14,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu3/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/thesis/index.html</loc>
     <lastmod>2025-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html</loc>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/research/index.html</loc>
     <lastmod>2025-06-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
